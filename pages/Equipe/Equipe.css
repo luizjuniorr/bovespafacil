@@ -289,9 +289,17 @@ main {
 
         & .img {
             display: block;
-            width: 100%;
+            width: 60%;
             margin: 1.875rem auto 1.875rem auto;
             border-radius: .3125rem;
+        }
+    }
+}
+
+@media(min-width: 1440px) {
+    header .navdesktop {
+        & a {
+            font-size: 14px;
         }
     }
 }

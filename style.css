@@ -247,3 +247,11 @@ main {
         }
     }
 }
+
+@media(min-width: 1440px) {
+    header .navdesktop {
+        & a {
+            font-size: 14px;
+        }
+    }
+}
