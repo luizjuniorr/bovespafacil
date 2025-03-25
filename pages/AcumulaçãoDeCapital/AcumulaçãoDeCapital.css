@@ -140,6 +140,11 @@ main {
         margin-bottom: 30px;
     }
 
+    & ul {
+        font-size: .875rem;
+        margin-left: 1.0625rem;
+    }
+
     & .img {
         display: block;
         width: 100%;

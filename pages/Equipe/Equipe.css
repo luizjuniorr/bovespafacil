@@ -12,6 +12,20 @@
     --white: #fff;
 }
 
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.marcosmatico{
+    height: 150px;
+}
+
+.bahia {
+    height: 300px;
+}
+
 div .linec {
     margin: .3125rem 0 1.25rem 0;
     width: 100%;
